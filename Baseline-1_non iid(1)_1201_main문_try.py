@@ -124,7 +124,7 @@ if __name__ == '__main__':
     print_round = 0
 
     num_clients = 10
-    num_rounds = 500
+    num_rounds = 200
     num_local_epochs = 1
     batch_size = 100
     learning_rate = 0.01
